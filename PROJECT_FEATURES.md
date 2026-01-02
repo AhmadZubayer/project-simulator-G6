@@ -7,3 +7,6 @@ Implement search API supporting location, dates, guests, price, amenities, and r
 "Build a frontend form with fields for name, email, phone, address, password, confirm password, and client-side validation."
 "**Status: Implemented**"  
 ""  
+"## T-7: Admin Login Domain Restricted" 
+"**Status: Implemented**" 
+"" 
