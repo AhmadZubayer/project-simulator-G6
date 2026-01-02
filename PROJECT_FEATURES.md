@@ -15,3 +15,7 @@ This task creates admin dashboard
 Create UI to add, schedule, and target banners, offers, and discount codes.
 **Status: Implemented**
 
+"## T-4: User Registration" 
+"Build a frontend form with fields for name, email, phone, address, password, confirm password, and client-side validation."
+"**Status: Implemented**"  
+""  
