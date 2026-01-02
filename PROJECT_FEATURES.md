@@ -7,7 +7,7 @@ Implement search API supporting location, dates, guests, price, amenities, and r
 This task creates admin dashboard
 **Status: Implemented**
 
-"## T-4: User Registration" 
+## T-4: User Registration 
 "Build a frontend form with fields for name, email, phone, address, password, confirm password, and client-side validation."
-"**Status: Implemented**"  
-""  
+**Status: Implemented**  
+  
