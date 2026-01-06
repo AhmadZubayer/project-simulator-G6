@@ -52,6 +52,10 @@ Build bookings dashboard showing pending, confirmed, and cancelled statuses with
 "Aggregate earnings from bookings, fees, and payouts into a financial ledger for each host." 
 "**Status: Implemented**" 
 "" 
+"## T-24: Host Review Replies" 
+"Provide reply form linked to each review and save responses via backend endpoint." 
+"**Status: Implemented**" 
+"" 
 ## T-8: Implement Admin User Management
 Build admin UI to list users with search, filters, and pagination.
 
