@@ -7,6 +7,11 @@ Build a frontend form with fields for name, email, phone, address, password, con
 Create login form accepting username/email and password with client-side validation and rate limiting. Implement authentication on backend using hashed passwords and issue JWT or session tokens.  Add Google Firebase Authentication. 
 **Status: Implemented**
 
+## T-4: Profile Dashboard
+Build role-aware dashboard UI showing profile, bookings, listings, and quick actions.  Implement APIs to fetch user-specific data and aggregate counts for widgets.  Add client-side caching and real-time updates for key items (bookings, messages). 
+**Status: Implemented**
+
+
 ## T-7: Implement Admin Login Domain Restricted
 Enforce admin email domain check (@stayfinder.com) during login and signup flows.
 
