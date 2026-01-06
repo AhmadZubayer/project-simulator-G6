@@ -18,3 +18,7 @@ Create pending listings queue and review UI showing listing details and document
 Build bookings dashboard showing pending, confirmed, and cancelled statuses with filters.
 **Status: Implemented**
 
+## T-11: Implement Admin Promotions Management
+Create UI to add, schedule, and target banners, offers, and discount codes.
+**Status: Implemented**
+
