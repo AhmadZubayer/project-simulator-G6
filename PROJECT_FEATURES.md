@@ -18,3 +18,11 @@ Build admin UI to list users with search, filters, and pagination.
 "Build listing creation/edit UI with fields for title, description, photos, price, type, and category." 
 "**Status: Implemented**" 
 "" 
+## T-8: Implement Admin User Management
+Build admin UI to list users with search, filters, and pagination.
+
+**Status: Immplemented**
+## T-9: Implement Admin Property Approvals
+Create pending listings queue and review UI showing listing details and documents.
+**Status: Implemented**
+
