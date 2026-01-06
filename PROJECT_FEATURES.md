@@ -11,6 +11,10 @@ Create login form accepting username/email and password with client-side validat
 Implement OAuth 2.0 flow with Google, configure client ID/secret and redirect URIs.Map Google profile data to internal user model and create accounts for first-time users.Securely store tokens and handle token refresh/revocation; handle edge cases for duplicate emails.
 **Status: Implemented**
 
+## T-5: Profile Editing
+Create editable form pre-filled with current user data and client-side validation. Implement backend update endpoints with authorization checks and audit logging.  Ensure UI refreshes immediately and changes propagate to related services.  
+**Status: Implemented**
+
 ## T-7: Implement Admin Login Domain Restricted
 Enforce admin email domain check (@stayfinder.com) during login and signup flows.
 **Status: Implemented**
