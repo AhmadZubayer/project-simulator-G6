@@ -10,6 +10,10 @@ Enforce admin email domain check (@stayfinder.com) during login and signup flows
 Implement search API supporting location, dates, guests, price, amenities, and ratings filters. 
 "**Status: Implemented**" 
 "" 
+"## T-19: Host Registration and Login" 
+" Provide host registration form capturing business name, contact, and verification documents." 
+"**Status: Implemented**" 
+"" 
 ## T-8: Implement Admin User Management
 Build admin UI to list users with search, filters, and pagination.
 
