@@ -10,3 +10,7 @@ Enforce admin email domain check (@stayfinder.com) during login and signup flows
 Build admin UI to list users with search, filters, and pagination.
 
 **Status: Immplemented**
+## T-9: Implement Admin Property Approvals
+Create pending listings queue and review UI showing listing details and documents.
+**Status: Implemented**
+
