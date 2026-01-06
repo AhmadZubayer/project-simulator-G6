@@ -68,3 +68,7 @@ Build bookings dashboard showing pending, confirmed, and cancelled statuses with
 Create UI to add, schedule, and target banners, offers, and discount codes.
 **Status: Implemented**
 
+## T-12: Implement Admin Analytics Dashboard
+Aggregate metrics (users, bookings, revenue) via ETL or analytics service.
+**Status: Implemented**
+
