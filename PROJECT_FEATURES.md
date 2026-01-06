@@ -95,3 +95,7 @@ Create UI to add, schedule, and target banners, offers, and discount codes.
 Aggregate metrics (users, bookings, revenue) via ETL or analytics service.
 **Status: Implemented**
 
+"## T-15: Customer Cart Management" 
+"Implement cart model to hold selected properties, dates, guest counts, and pricing." 
+"**Status: Implemented**" 
+"" 
