@@ -14,3 +14,7 @@ Build admin UI to list users with search, filters, and pagination.
 Create pending listings queue and review UI showing listing details and documents.
 **Status: Implemented**
 
+## T-10: Implement Admin Booking Monitoring
+Build bookings dashboard showing pending, confirmed, and cancelled statuses with filters.
+**Status: Implemented**
+
