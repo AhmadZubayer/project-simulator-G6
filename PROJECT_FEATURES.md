@@ -68,3 +68,7 @@ Build bookings dashboard showing pending, confirmed, and cancelled statuses with
 Create UI to add, schedule, and target banners, offers, and discount codes.
 **Status: Implemented**
 
+"## T-25: Booking Partial Payment" 
+"Implement payment flow to capture partial deposit and record remaining balance in booking record." 
+"**Status: Implemented**" 
+"" 
