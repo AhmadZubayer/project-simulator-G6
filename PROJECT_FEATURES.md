@@ -7,6 +7,10 @@ Build a frontend form with fields for name, email, phone, address, password, con
 Create login form accepting username/email and password with client-side validation and rate limiting. Implement authentication on backend using hashed passwords and issue JWT or session tokens.  Add Google Firebase Authentication. 
 **Status: Implemented**
 
+## T-4: Profile Dashboard
+Build role-aware dashboard UI showing profile, bookings, listings, and quick actions.  Implement APIs to fetch user-specific data and aggregate counts for widgets.  Add client-side caching and real-time updates for key items (bookings, messages). 
+**Status: Implemented**
+
 ## T-3: Google Login Integration
 Implement OAuth 2.0 flow with Google, configure client ID/secret and redirect URIs.Map Google profile data to internal user model and create accounts for first-time users.Securely store tokens and handle token refresh/revocation; handle edge cases for duplicate emails.
 **Status: Implemented**
