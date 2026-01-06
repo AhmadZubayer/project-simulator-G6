@@ -46,6 +46,8 @@ Create pending listings queue and review UI showing listing details and document
 Build bookings dashboard showing pending, confirmed, and cancelled statuses with filters.
 **Status: Implemented**
 
+"## T-23: Host Availability Management" 
+"Implement calendar UI for hosts to set availability, block dates, and sync with bookings." 
 "## T-22: Host Earnings and Analytics" 
 "Aggregate earnings from bookings, fees, and payouts into a financial ledger for each host." 
 "**Status: Implemented**" 
@@ -54,3 +56,23 @@ Build bookings dashboard showing pending, confirmed, and cancelled statuses with
 "Provide reply form linked to each review and save responses via backend endpoint." 
 "**Status: Implemented**" 
 "" 
+## T-8: Implement Admin User Management
+Build admin UI to list users with search, filters, and pagination.
+
+**Status: Immplemented**
+## T-9: Implement Admin Property Approvals
+Create pending listings queue and review UI showing listing details and documents.
+**Status: Implemented**
+
+## T-10: Implement Admin Booking Monitoring
+Build bookings dashboard showing pending, confirmed, and cancelled statuses with filters.
+**Status: Implemented**
+
+## T-11: Implement Admin Promotions Management
+Create UI to add, schedule, and target banners, offers, and discount codes.
+**Status: Implemented**
+
+## T-12: Implement Admin Analytics Dashboard
+Aggregate metrics (users, bookings, revenue) via ETL or analytics service.
+**Status: Implemented**
+
