@@ -18,6 +18,10 @@ Implement search API supporting location, dates, guests, price, amenities, and r
 Build admin UI to list users with search, filters, and pagination.
 
 **Status: Immplemented**
+"## T-21: Host Booking Requests" 
+"Implement booking request flow delivering customer details, dates, and price to host dashboard." 
+"**Status: Implemented**" 
+"" 
 "## T-20: Host Property Listing Management" 
 "Build listing creation/edit UI with fields for title, description, photos, price, type, and category." 
 "**Status: Implemented**" 
