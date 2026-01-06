@@ -46,6 +46,8 @@ Create pending listings queue and review UI showing listing details and document
 Build bookings dashboard showing pending, confirmed, and cancelled statuses with filters.
 **Status: Implemented**
 
+"## T-23: Host Availability Management" 
+"Implement calendar UI for hosts to set availability, block dates, and sync with bookings." 
 "## T-22: Host Earnings and Analytics" 
 "Aggregate earnings from bookings, fees, and payouts into a financial ledger for each host." 
 "**Status: Implemented**" 
