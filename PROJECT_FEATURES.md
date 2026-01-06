@@ -15,6 +15,10 @@ Implement OAuth 2.0 flow with Google, configure client ID/secret and redirect UR
 Create editable form pre-filled with current user data and client-side validation. Implement backend update endpoints with authorization checks and audit logging.  Ensure UI refreshes immediately and changes propagate to related services.  
 **Status: Implemented**
 
+## T-6: Password Management
+Add change-password form requiring current password and new password validation rules.  Implement secure hashing and update logic on backend; enforce strong password policy. Build forgot-password flow with time-limited email tokens and secure reset endpoint.
+**Status: Implemented**
+
 ## T-7: Implement Admin Login Domain Restricted
 Enforce admin email domain check (@stayfinder.com) during login and signup flows.
 **Status: Implemented**
