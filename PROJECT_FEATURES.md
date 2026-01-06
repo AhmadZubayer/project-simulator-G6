@@ -7,6 +7,10 @@ Build a frontend form with fields for name, email, phone, address, password, con
 Create login form accepting username/email and password with client-side validation and rate limiting. Implement authentication on backend using hashed passwords and issue JWT or session tokens.  Add Google Firebase Authentication. 
 **Status: Implemented**
 
+## T-3: Google Login Integration
+Implement OAuth 2.0 flow with Google, configure client ID/secret and redirect URIs.Map Google profile data to internal user model and create accounts for first-time users.Securely store tokens and handle token refresh/revocation; handle edge cases for duplicate emails.
+**Status: Implemented**
+
 ## T-7: Implement Admin Login Domain Restricted
 Enforce admin email domain check (@stayfinder.com) during login and signup flows.
 
@@ -52,6 +56,10 @@ Build bookings dashboard showing pending, confirmed, and cancelled statuses with
 "Aggregate earnings from bookings, fees, and payouts into a financial ledger for each host." 
 "**Status: Implemented**" 
 "" 
+"## T-24: Host Review Replies" 
+"Provide reply form linked to each review and save responses via backend endpoint." 
+"**Status: Implemented**" 
+"" 
 ## T-8: Implement Admin User Management
 Build admin UI to list users with search, filters, and pagination.
 
@@ -72,3 +80,7 @@ Create UI to add, schedule, and target banners, offers, and discount codes.
 "Implement payment flow to capture partial deposit and record remaining balance in booking record." 
 "**Status: Implemented**" 
 "" 
+## T-12: Implement Admin Analytics Dashboard
+Aggregate metrics (users, bookings, revenue) via ETL or analytics service.
+**Status: Implemented**
+
