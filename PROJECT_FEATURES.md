@@ -55,8 +55,13 @@ Implement search API supporting location, dates, guests, price, amenities, and r
 Build property page showing photos, price per night, availability calendar, amenities, and reviews.
 **Status: Implemented** 
 
+## T-15: Customer Cart Management
+Implement cart model to hold selected properties, dates, guest counts, and pricing. 
+**Status: Implemented**
 
-
+## T-16: Customer Booking History
+Store booking records with status, timestamps, and related metadata in bookings service. Build API to fetch past and upcoming bookings with pagination and filters. Display history in UI with details and actions (cancel, contact host, download receipt). 
+**Status: Implemented** 
 
 ## T-19: Host Registration and Login
 Provide host registration form capturing business name, contact, and verification documents.
@@ -86,7 +91,4 @@ Provide reply form linked to each review and save responses via backend endpoint
 "Implement payment flow to capture partial deposit and record remaining balance in booking record." 
 "**Status: Implemented**"
 
-"## T-15: Customer Cart Management" 
-"Implement cart model to hold selected properties, dates, guest counts, and pricing." 
-"**Status: Implemented**" 
-"" 
+
