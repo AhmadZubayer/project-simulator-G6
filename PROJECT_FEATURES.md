@@ -51,6 +51,9 @@ Implement search API supporting location, dates, guests, price, amenities, and r
 Build property page showing photos, price per night, availability calendar, amenities, and reviews.
 **Status: Implemented** 
 
+
+
+
 ## T-19: Host Registration and Login
 Provide host registration form capturing business name, contact, and verification documents.
 **Status: Implemented**
