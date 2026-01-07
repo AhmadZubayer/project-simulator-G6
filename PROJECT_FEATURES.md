@@ -67,6 +67,10 @@ Store booking records with status, timestamps, and related metadata in bookings 
 Create review submission endpoint requiring booking verification, rating, and comment. Implement moderation queue and admin tools for flagged or abusive reviews. Display aggregated ratings and recent reviews on property and host pages. 
 **Status: Implemented** 
 
+## T-18: Customer Offers and Discounts
+Implement coupon engine to validate codes, apply discounts, and enforce usage rules.  Add UI for entering codes and showing discounted totals at checkout. Track redemptions and integrate with promotions management for reporting.
+**Status: Implemented** 
+
 ## T-19: Host Registration and Login
 Provide host registration form capturing business name, contact, and verification documents.
 **Status: Implemented**
