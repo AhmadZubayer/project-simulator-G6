@@ -7,6 +7,10 @@ Build a frontend form with fields for name, email, phone, address, password, con
 Create login form accepting username/email and password with client-side validation and rate limiting. Implement authentication on backend using hashed passwords and issue JWT or session tokens.  Add Google Firebase Authentication. 
 **Status: Implemented**
 
+## T-4: Profile Dashboard
+Build role-aware dashboard UI showing profile, bookings, listings, and quick actions.  Implement APIs to fetch user-specific data and aggregate counts for widgets.  Add client-side caching and real-time updates for key items (bookings, messages). 
+**Status: Implemented**
+
 ## T-3: Google Login Integration
 Implement OAuth 2.0 flow with Google, configure client ID/secret and redirect URIs.Map Google profile data to internal user model and create accounts for first-time users.Securely store tokens and handle token refresh/revocation; handle edge cases for duplicate emails.
 **Status: Implemented**
@@ -82,3 +86,7 @@ Provide reply form linked to each review and save responses via backend endpoint
 "Implement payment flow to capture partial deposit and record remaining balance in booking record." 
 "**Status: Implemented**"
 
+"## T-15: Customer Cart Management" 
+"Implement cart model to hold selected properties, dates, guest counts, and pricing." 
+"**Status: Implemented**" 
+"" 
