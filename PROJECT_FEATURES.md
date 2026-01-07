@@ -68,7 +68,8 @@ Create review submission endpoint requiring booking verification, rating, and co
 **Status: Implemented** 
 
 ## T-18: Customer Offers and Discounts
-Implement coupon engine to validate codes, apply discounts, and enforce usage rules.  Add UI for entering codes and showing discounted totals at checkout. Track redemptions and integrate with promotions management for reporting.
+Implement coupon engine to validate codes, apply discounts, and enforce usage rules.  Add UI for entering codes and showing discounted totals at checkout. 
+Track redemptions and integrate with promotions management for reporting.
 **Status: Implemented** 
 
 ## T-19: Host Registration and Login
@@ -83,7 +84,7 @@ Build listing creation/edit UI with fields for title, description, photos, price
 Implement booking request flow delivering customer details, dates, and price to host dashboard.
 **Status: Implemented**
 
-## T-22: Host Earnings and Analytics"
+## T-22: Host Earnings and Analytics
 Aggregate earnings from bookings, fees, and payouts into a financial ledger for each host.
 **Status: Implemented**
 
@@ -95,8 +96,11 @@ Implement calendar UI for hosts to set availability, block dates, and sync with 
 Provide reply form linked to each review and save responses via backend endpoint.
 **Status: Implemented**
 
-## T-25: Booking Partial Payment" 
-"Implement payment flow to capture partial deposit and record remaining balance in booking record." 
-"**Status: Implemented**"
+## T-25: Booking Partial Payment
+Implement payment flow to capture partial deposit and record remaining balance in booking record. 
+**Status: Implemented**
 
+## T-26: Booking Full Payment Before Check-in
+Implement reminder and payment endpoint to collect remaining balance before check-in. Enforce booking status transitions only after full payment is received and record receipts. Integrate with payment gateway for final capture and support retries for failed payments.
+**Status: Implemented**
 
