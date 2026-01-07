@@ -63,6 +63,10 @@ Implement cart model to hold selected properties, dates, guest counts, and prici
 Store booking records with status, timestamps, and related metadata in bookings service. Build API to fetch past and upcoming bookings with pagination and filters. Display history in UI with details and actions (cancel, contact host, download receipt). 
 **Status: Implemented** 
 
+## T-17: Customer Reviews and Ratings
+Create review submission endpoint requiring booking verification, rating, and comment. Implement moderation queue and admin tools for flagged or abusive reviews. Display aggregated ratings and recent reviews on property and host pages. 
+**Status: Implemented** 
+
 ## T-19: Host Registration and Login
 Provide host registration form capturing business name, contact, and verification documents.
 **Status: Implemented**
