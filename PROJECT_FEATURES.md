@@ -108,3 +108,7 @@ Implement reminder and payment endpoint to collect remaining balance before chec
 "Implement reminder and payment endpoint to collect remaining balance before check-in." 
 "**Status: Implemented**"  
 "" 
+"## T-27: Payment Status Tracking" 
+"Maintain payment status field in booking records (partial, pending, paid) and update on transactions." 
+"**Status: Implemented**" 
+"" 
