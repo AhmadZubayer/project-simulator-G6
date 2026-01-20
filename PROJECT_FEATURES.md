@@ -104,3 +104,7 @@ Implement payment flow to capture partial deposit and record remaining balance i
 Implement reminder and payment endpoint to collect remaining balance before check-in. Enforce booking status transitions only after full payment is received and record receipts. Integrate with payment gateway for final capture and support retries for failed payments.
 **Status: Implemented**
 
+"## T-26: Booking Full Payment Before Check-in" 
+"Implement reminder and payment endpoint to collect remaining balance before check-in." 
+"**Status: Implemented**"  
+"" 
