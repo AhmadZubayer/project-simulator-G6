@@ -112,3 +112,7 @@ Implement reminder and payment endpoint to collect remaining balance before chec
 "Maintain payment status field in booking records (partial, pending, paid) and update on transactions." 
 "**Status: Implemented**" 
 "" 
+"## T-28: Booking Confirmation Notification" 
+"Trigger email and/or SMS notifications after successful payment with booking details and receipt." 
+"**Status: Implemented**" 
+"" 
