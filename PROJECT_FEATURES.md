@@ -120,3 +120,8 @@ Implement reminder and payment endpoint to collect remaining balance before chec
 "Add category field (Luxury, Premium, Regular) to property schema and listing forms." 
 "**Status: Implemented**" 
 "" 
+"## T-30: Implement User Login Page" 
+"## T-30: Property Type Management" 
+"Add type field (Hotel, Villa, Home) to property model and listing creation UI." 
+"**Status: Implemented**" 
+"" 
