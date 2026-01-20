@@ -116,3 +116,7 @@ Implement reminder and payment endpoint to collect remaining balance before chec
 "Trigger email and/or SMS notifications after successful payment with booking details and receipt." 
 "**Status: Implemented**" 
 "" 
+"## T-29: Property Categorization" 
+"Add category field (Luxury, Premium, Regular) to property schema and listing forms." 
+"**Status: Implemented**" 
+"" 
