@@ -125,3 +125,7 @@ Implement reminder and payment endpoint to collect remaining balance before chec
 "Add type field (Hotel, Villa, Home) to property model and listing creation UI." 
 "**Status: Implemented**" 
 "" 
+## T-31: Login Page
+Create login form accepting username/email and password with client-side validation and rate limiting.
+**Status: Implemented**
+
